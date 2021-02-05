@@ -1,4 +1,5 @@
 # reaction-timer
+['To play the game click here'](https://reaction-timer-a6ff2.web.app/)
 
 ## Project setup
 ```
